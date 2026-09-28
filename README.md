@@ -102,8 +102,8 @@ Evolución de convergencia durante 10 épocas de entrenamiento:
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone https://github.com/AnthonyGodoy/MasterAnalisisSoldaduras.git
-cd MasterAnalisisSoldaduras
+git clone https://github.com/AnthonyGodoy/MasterAnalisisSoldadura.git
+cd MasterAnalisisSoldadura
 ```
 
 ### 2. Crear y Activar Entorno Virtual
@@ -153,7 +153,7 @@ streamlit run etapa4_dashboard.py
 ## 📁 Estructura del Repositorio
 
 ```text
-MasterAnalisisSoldaduras/
+MasterAnalisisSoldadura/
 ├── .gitignore                  # Exclusión de binarios pesados y datos transitorios
 ├── .gitattributes              # Normalización de fin de línea y soporte Git LFS
 ├── LICENSE                     # Licencia MIT
