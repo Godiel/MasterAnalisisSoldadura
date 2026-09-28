@@ -102,7 +102,7 @@ Evolución de convergencia durante 10 épocas de entrenamiento:
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone https://github.com/AnthonyGodoy/MasterAnalisisSoldadura.git
+git clone https://github.com/Godiel/MasterAnalisisSoldadura.git
 cd MasterAnalisisSoldadura
 ```
 
